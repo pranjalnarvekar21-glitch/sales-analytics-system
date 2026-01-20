@@ -1,3 +1,12 @@
+# Sales Analytics system
+## Assignment 3
+---
+Student Name: Pranjal Pramod Shet Narvekar
+
+Student ID: bitsom_ba_25071749
+
+Email: pranjal.narvekar21@gmail.com
+---
 ## Repository Structure
 
 ```text
@@ -11,8 +20,14 @@ sales-analytics-system/
 │   ├── sales_summary.txt     # Results/Reports
 │   └── enriched_sales_data.txt
 └── utils/
-    ├── __init__.py           # Makes utils a package
     ├── file_handler.py       # Functions for read/write
     ├── data_processor.py     # Functions for analysis (trends, peak days)
     ├── report_generation.py  # Report Generation code
     └── api_handler.py        # Functions for enrichment logic
+
+```
+## Code flow and requirement.
+- Python version used to run is 3.13.9.
+- Need to pip3 install requests will be needed for the api_handler and main.py execution.
+- Make sure all the files from utils are folder are executed successfully before running the main.py file.
+- I have added the Generated files into the Output folders, you will get the files once the main.py is executed into your cwd.
