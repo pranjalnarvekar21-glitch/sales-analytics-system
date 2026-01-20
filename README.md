@@ -1,11 +1,13 @@
 # Sales Analytics system
 ## Assignment 3
 ---
+
 Student Name: Pranjal Pramod Shet Narvekar
 
 Student ID: bitsom_ba_25071749
 
 Email: pranjal.narvekar21@gmail.com
+
 ---
 ## Repository Structure
 
@@ -27,7 +29,7 @@ sales-analytics-system/
 
 ```
 ## Code flow and requirement.
-- Python version used to run is 3.13.9.
-- Need to pip3 install requests will be needed for the api_handler and main.py execution.
-- Make sure all the files from utils are folder are executed successfully before running the main.py file.
-- I have added the Generated files into the Output folders, you will get the files once the main.py is executed into your cwd.
+- Python version used to run the code is 3.13.9.
+- in the Terminal run 'pip3 install requests', will be needed for the api_handler and main.py execution.
+- Make sure all  files from utils are folder are run/executed successfully before running the main.py file.
+- I have added the output Generated files into the output folder, you will get the files once the main.py is executed into your cwd.
